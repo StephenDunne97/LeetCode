@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 #
 # Calculate + Print the ratio of plus/minus/zero numbers in an integer array
 #
